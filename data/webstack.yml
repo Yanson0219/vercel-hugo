@@ -1,6 +1,4 @@
-- taxonomy: cloudflare自建
-  icon: fas fa-cloud fa-lg
-  list:
+ list:
     - term: YuUu
       links:
         - title: 订阅管理系统
