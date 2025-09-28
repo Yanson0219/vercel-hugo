@@ -1,7 +1,7 @@
-- taxonomy: cloudflare自建
+- taxonomy: Cloudflare 自建
   icon: fas fa-laptop-code fa-lg
   list:
-    - term: YuUu管理
+    - term: YuUu 管理
       links:
         - title: 订阅管理系统
           logo: cf.ico
@@ -15,7 +15,7 @@
           logo: huiju.ico
           url: https://huiju.wulingcheng.dpdns.org/YuUu
           description: 聚合多种订阅源，轻松管理
-        - title: Komari监控
+        - title: Komari 监控
           logo: komari.ico
           url: https://ghwseujk.ap-northeast-1.clawcloudrun.com/
           description: 实时监控系统健康状态
@@ -38,15 +38,15 @@
           url: https://chatgpt.com/
           description: ChatGPT的官方网站
 
-- taxonomy: 论坛
+- taxonomy: 论坛与社区
   icon: fas fa-comments fa-lg
   list:
     - term: 社区论坛
       links:
-        - title: Linux社区
+        - title: Linux 社区
           logo: linux.ico
           url: https://linux.do/
-          description: Linux爱好者社区
+          description: Linux 爱好者社区
         - title: MjjBox
           logo: mjjbox.ico
           url: https://mjjbox.com/
@@ -54,7 +54,7 @@
         - title: MJJVM
           logo: mjjvm.ico
           url: https://www.mjjvm.com/login
-          description: 登录MJJVM平台
+          description: 登录 MJJVM 平台
         - title: NodeSeek
           logo: nodeseek.ico
           url: https://www.nodeseek.com/
@@ -72,9 +72,29 @@
           url: https://clochat.com/
           description: 在线社区讨论平台
         - title: 恩山论坛
-          url: https://www.right.com.cn/forum/
           logo: enshan.ico
-          description: 中文IT技术交流社区
+          url: https://www.right.com.cn/forum/
+          description: 中文 IT 技术交流社区
+        - title: 52 破解论坛
+          logo: 52pojie.ico
+          url: https://www.52pojie.cn/
+          description: 著名的逆向与破解技术社区
+        - title: 智能电视之家
+          logo: znds.ico
+          url: https://www.znds.com/
+          description: 机顶盒 / 智能电视相关资源与讨论
+        - title: 软仓网（模拟器/资源）
+          logo: ruancang.ico
+          url: https://www.ruancang.net/#/sim
+          description: 模拟器与资源分享
+        - title: 3DM 游戏网
+          logo: 3dm.ico
+          url: https://www.3dmgame.com/
+          description: 游戏资讯、汉化与资源
+        - title: 一款 MU（YIKM）
+          logo: yikm.ico
+          url: https://www.yikm.net/
+          description: 游戏/资源分享站点
     - term: 视频与博客
       links:
         - title: YouTube
@@ -85,7 +105,22 @@
           logo: cmliussss.ico
           url: https://blog.cmliussss.com/
           description: CMLiu的个人博客
-
+    - term: 企业/工商查询
+      links:
+        - title: 全国企业信用信息公示系统
+          logo: gsxt.ico
+          url: https://www.gsxt.gov.cn/index.html
+          description: 企业工商信息查询（官方）
+    - term: 云与运行环境
+      links:
+        - title: Claw Cloud (AP-NE)
+          logo: claw.ico
+          url: https://ap-northeast-1.run.claw.cloud/
+          description: Claw Cloud 区域入口 / 控制台（示例）
+        - title: lucy懒人配置大全
+          logo: evan.ico
+          url: https://www.evan888.top/1936/
+          description: 提供多种资源与配置，包含壁纸
 
 - taxonomy: 常用工具
   icon: fas fa-laptop-code fa-lg
@@ -95,7 +130,7 @@
         - title: Cloudflare
           logo: cloudflare.ico
           url: https://www.cloudflare.com/zh-cn/
-          description: 大伙都知道的CF
+          description: 大伙都知道的 CF
         - title: iTdog
           logo: itdog.ico
           url: https://www.itdog.cn/http/
@@ -131,11 +166,11 @@
         - title: IP权重
           logo: ip123.png
           url: https://ip123.in/
-          description: 在线查询IP的权重，支持查询ipv6
+          description: 在线查询IP的权重，支持查询IPv6
         - title: IP检测
           logo: ipjiance.ico
           url: https://ipjiance.com/
-          description: 检测IP质量，ip类型等信息
+          description: 检测IP质量，IP类型等信息
         - title: 在线代理
           logo: lumiproxy.ico
           url: https://www.lumiproxy.com/zh-hans/online-proxy/proxysite/
@@ -147,46 +182,40 @@
         - title: Warp+
           logo: warp.png
           url: https://ip125.com/warp/
-          description: 获取Cloudflare的Warp+key
+          description: 获取 Cloudflare 的 Warp+ key
         - title: UUID
           logo: uuidgenerator.png
           url: https://www.uuidgenerator.net/
-          description: UUID生产工具
-    - term: 域名注册
+          description: UUID 生成工具
+        - title: Xodo — Word 转 PDF
+          logo: xodo.ico
+          url: https://xodo.com/zh_cn/word-to-pdf
+          description: 在线 Word → PDF 转换与查看
+    - term: JavaScript 安全/混淆
       links:
-        - title: NameSilo
-          logo: namesilo.ico
-          url: https://www.namesilo.com/
-          description: 域名注册商，提供域名注册、SSL证书等服务
-        - title: Namecheap
-          logo: namecheap.ico
-          url: https://www.namecheap.com/
-          description: 域名注册商，提供域名注册、SSL证书等服务
-        - title: GoDaddy
-          logo: godaddy.png
-          url: https://www.godaddy.com/
-          description: 全球最大的域名注册商之一，提供域名注册、主机等服务
-        - title: 阿里云域名
-          logo: 阿里云.ico
-          url: https://wanwang.aliyun.com/
-          description: 阿里云的域名注册服务
-        - title: 腾讯云域名
-          logo: 腾讯云.ico
-          url: https://cloud.tencent.com/product/domain
-          description: 腾讯云的域名注册服务
-        - title: PP.ua
-          logo: nic.png
-          url: https://nic.ua/
-          description: 免费二级域名，按年续期
-        - title: Eu.org
-          logo: euorg.ico
-          url: https://nic.eu.org/
-          description: 永久免费二级域名
-        - title: Nyc.mn
-          logo: nycmn.png
-          url: https://dot.nyc.mn/
-          description: 永久免费二级域名，仅限纽约家宽申请
-        - title: Us.kg
-          logo: uskg.jpg
-          url: https://domain.digitalplat.org/
-          description: 永久免费二级域名，半年续期
+        - title: JS Obfuscator (ToolOnline)
+          logo: jsobf.ico
+          url: https://toolonline.net/js-obfuscator
+          description: 在线 JavaScript 混淆/加密工具
+
+- taxonomy: Steam / 壁纸资源
+  icon: fas fa-image fa-lg
+  list:
+    - term: Steam 壁纸与引擎
+      links:
+        - title: Steam 壁纸下载器（非官方）
+          logo: steamworkshopdl.ico
+          url: http://steamworkshop.download/
+          description: 从 Steam Workshop 批量下载项目（壁纸/资源）
+        - title: Steam 壁纸引擎（示例筛选）
+          logo: steamcommunity.ico
+          url: "https://steamcommunity.com/workshop/browse/?appid=431960&browsesort=trend&section=readytouseitems&created_date_range_filter_start=0&created_date_range_filter_end=0&updated_date_range_filter_start=0&updated_date_range_filter_end=0&actualsort=trend&p=2&days=7"
+          description: Steam Workshop 上的 Wallpaper Engine 项目（示例筛选链接）
+        - title: Wallpaper Engine 资源（VSThemes）
+          logo: vsthemes.ico
+          url: https://vsthemes.org/ru/Wallpaper%20Engine
+          description: Wallpaper Engine 主题/壁纸资源聚合（第三方）
+        - title: WalLegend（壁纸分类页）
+          logo: wallegend.ico
+          url: https://wallegend.net/page/13/
+          description: 壁纸与桌面美化资源
