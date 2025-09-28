@@ -1,5 +1,5 @@
 - taxonomy: cloudflare自建
-  icon: fas fa-laptop-code fa-lg
+  icon: fas fa-cloud fa-lg
   list:
     - term: YuUu
       links:
@@ -21,7 +21,7 @@
           description: 系统监控工具
 
 - taxonomy: 数据资源
-  icon: fas fa-film fa-lg
+  icon: fas fa-database fa-lg
   list:
     - term: 账号与邮件
       links:
@@ -39,7 +39,7 @@
           description: ChatGPT的官方网站
 
 - taxonomy: 论坛
-  icon: fas fa-users fa-lg
+  icon: fas fa-comments fa-lg
   list:
     - term: 社区论坛
       links:
@@ -85,6 +85,7 @@
           logo: cmliussss.ico
           url: https://blog.cmliussss.com/
           description: CMLiu的个人博客
+
 
 - taxonomy: 常用工具
   icon: fas fa-laptop-code fa-lg
