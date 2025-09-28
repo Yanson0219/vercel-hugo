@@ -1,87 +1,91 @@
--taxonomy: cloudflare自建
- icon: fas fa-laptop-code fa-lg
- list:
-  - term: YuUu
-    links:
-      - title: 订阅管理系统
-        logo: cf.ico
-        url: https://dingyue.wulingcheng.dpdns.org/
-        description: 订阅管理系统
-      - title: Edgetunnel
-        logo: edgetunnel.ico
-        url: https://qy.qyan.qzz.io/YuUu
-        description: 网络隧道管理工具
-      - title: 订阅聚合
-        logo: huiju.ico
-        url: https://huiju.wulingcheng.dpdns.org/YuUu
-        description: 聚合多个订阅源
-      - title: Komari监控
-        logo: komari.ico
-        url: https://ghwseujk.ap-northeast-1.clawcloudrun.com/
-        description: 系统监控工具
+- taxonomy: cloudflare自建
+  icon: fas fa-laptop-code fa-lg
+  list:
+    - term: YuUu
+      links:
+        - title: 订阅管理系统
+          logo: cf.ico
+          url: https://dingyue.wulingcheng.dpdns.org/
+          description: 订阅管理系统
+        - title: Edgetunnel
+          logo: edgetunnel.ico
+          url: https://qy.qyan.qzz.io/YuUu
+          description: 网络隧道管理工具
+        - title: 订阅聚合
+          logo: huiju.ico
+          url: https://huiju.wulingcheng.dpdns.org/YuUu
+          description: 聚合多个订阅源
+        - title: Komari监控
+          logo: komari.ico
+          url: https://ghwseujk.ap-northeast-1.clawcloudrun.com/
+          description: 系统监控工具
+
 - taxonomy: 数据资源
   icon: fas fa-film fa-lg
   list:
     - term: 账号与邮件
+      links:
         - title: Outlook
-        logo: outlook.ico
-        url: https://outlook.live.com/mail/0/
-        description: 微软邮件服务
-      - title: Gmail
-        logo: gmail.ico
-        url: https://mail.google.com/mail/u/0/#inbox
-        description: Google的电子邮件服务
-      - title: ChatGPT
-        logo: chatgpt.ico
-        url: https://chatgpt.com/
-        description: ChatGPT的官方网站
--taxonomy: 论坛
- icon: fas fa-users fa-lg
- list:
-  - term: 社区论坛
-    links:
-      - title: Linux社区
-        logo: linux.ico
-        url: https://linux.do/
-        description: Linux爱好者社区
-      - title: MjjBox
-        logo: mjjbox.ico
-        url: https://mjjbox.com/
-        description: 资源分享与交流论坛
-     - title: MJJVM
-        logo: mjjvm.ico
-        url: https://www.mjjvm.com/login
-        description: 登录MJJVM平台
-      - title: NodeSeek
-        logo: nodeseek.ico
-        url: https://www.nodeseek.com/
-        description: 节点搜索与分享论坛
-      - title: NodeLoc
-        logo: nodeloc.ico
-        url: https://www.nodeloc.com/
-        description: 节点讨论与交流
-      - title: DeepFlood
-        logo: deepflood.ico
-        url: https://www.deepflood.com/
-        description: 资源分享与交流平台
-      - title: CloChat
-        logo: clochat.ico
-        url: https://clochat.com/
-        description: 在线社区讨论平台
-      - title: 恩山论坛
-        url: https://www.right.com.cn/forum/
-        logo: enshan.ico
-        description: 中文IT技术交流社区
-  - term: 视频与博客
-    links:
-      - title: YouTube
-        logo: youtube.ico
-        url: https://www.youtube.com/
-        description: 世界上最大的视频分享平台
-      - title: CMLiu Blog
-        logo: cmliussss.ico
-        url: https://blog.cmliussss.com/
-        description: CMLiu的个人博客
+          logo: outlook.ico
+          url: https://outlook.live.com/mail/0/
+          description: 微软邮件服务
+        - title: Gmail
+          logo: gmail.ico
+          url: https://mail.google.com/mail/u/0/#inbox
+          description: Google的电子邮件服务
+        - title: ChatGPT
+          logo: chatgpt.ico
+          url: https://chatgpt.com/
+          description: ChatGPT的官方网站
+
+- taxonomy: 论坛
+  icon: fas fa-users fa-lg
+  list:
+    - term: 社区论坛
+      links:
+        - title: Linux社区
+          logo: linux.ico
+          url: https://linux.do/
+          description: Linux爱好者社区
+        - title: MjjBox
+          logo: mjjbox.ico
+          url: https://mjjbox.com/
+          description: 资源分享与交流论坛
+        - title: MJJVM
+          logo: mjjvm.ico
+          url: https://www.mjjvm.com/login
+          description: 登录MJJVM平台
+        - title: NodeSeek
+          logo: nodeseek.ico
+          url: https://www.nodeseek.com/
+          description: 节点搜索与分享论坛
+        - title: NodeLoc
+          logo: nodeloc.ico
+          url: https://www.nodeloc.com/
+          description: 节点讨论与交流
+        - title: DeepFlood
+          logo: deepflood.ico
+          url: https://www.deepflood.com/
+          description: 资源分享与交流平台
+        - title: CloChat
+          logo: clochat.ico
+          url: https://clochat.com/
+          description: 在线社区讨论平台
+        - title: 恩山论坛
+          url: https://www.right.com.cn/forum/
+          logo: enshan.ico
+          description: 中文IT技术交流社区
+    - term: 视频与博客
+      links:
+        - title: YouTube
+          logo: youtube.ico
+          url: https://www.youtube.com/
+          description: 世界上最大的视频分享平台
+        - title: CMLiu Blog
+          logo: cmliussss.ico
+          url: https://blog.cmliussss.com/
+          description: CMLiu的个人博客
+
 - taxonomy: 常用工具
   icon: fas fa-laptop-code fa-lg
   list:
@@ -185,108 +189,3 @@
           logo: uskg.jpg
           url: https://domain.digitalplat.org/
           description: 永久免费二级域名，半年续期
-
-    - term: 办公必备
-      links:
-        - title: GitHub
-          logo: github.ico
-          url: https://github.com/
-          description: 最热门知名的开源网站
-        - title: 田字格字帖生成工具
-        logo: tianzigeko.ico
-        url: https://www.an2.net/
-        description: 生成田字格字帖
-        - title: 草料二维码
-          logo: caoliao.ico
-          url: https://cli.im/
-          description: 在线生成二维码的工具
-      - title: 2D Wallpapers
-        logo: 2dwallpapers.ico
-        url: https://www.2dwallpapers.com/
-        description: 提供高清2D壁纸资源
-              - title: SteamZG
-        logo: steamzg.ico
-        url: https://steamzg.com/
-        description: Steam游戏社区与资源分享
-      - title: Gamer520
-        logo: gamer520.ico
-        url: https://www.gamer520.com/
-        description: 游戏社区与资源分享
-      - title: Whatshub.top
-        logo: whatshub.ico
-        url: https://whatshub.top/
-        description: 游戏及工具分享网站
-      - title: Evan888.top
-        logo: evan.ico
-        url: https://www.evan888.top/1936/
-        description: 提供各种软件与工具分享
-      - title: ScriptHub
-        logo: scripthub.ico
-        url: https://scripthub.vercel.app/
-        description: 提供脚本分享与管理工具
-      - title: Kejicut
-        logo: kejicut.ico
-        url: https://www.kejicut.com/
-        description: 提供技术工具与资源分享
-      - title: Jiejingku
-        logo: jiejingku.ico
-        url: https://jiejingku.net/
-        description: 提供下载与资源分享
-    - term: 虚拟数据
-      links:
-        - title: 虚拟身份
-          logo: fakexy.png
-          url: https://www.fakexy.com/
-          description: 虚拟身份信息
-        - title: 虚拟身份
-          logo: fauxid.ico
-          url: https://fauxid.com/
-          description: 虚拟身份信息，可以按条件筛选
-        - title: 虚拟身份
-          logo: fakenameng.ico
-          url: https://www.fakenamegenerator.com/
-          description: 虚拟身份信息，可以按条件筛选
-        - title: Emby
-          logo: emby.ico
-          url: https://emby.media/
-          description: Emby自建视频媒体库，自行搜索公益服务器
-        - title: 虚拟身份
-          logo: fakeperson.ico
-          url: https://www.fakepersongenerator.com/
-          description: 虚拟身份信息，可以按条件筛选
-        - title: 美国身份
-          logo: mylife.png
-          url: https://www.mylife.com/
-          description: 美国身份信息索引
-        - title: 美国身份查询
-          logo: truepeople.ico
-          url: https://www.truepeoplesearch.com/
-          description: 美国身份信息查询
-      - title: 虚拟身份证生成
-        logo: fakenamegenerator.ico
-        url: https://www.fakenamegenerator.com/
-        description: 虚拟身份证信息生成
-      - title: 随机身份证生成
-        logo: fakenamegenerator.ico
-        url: https://4275.com/
-        description: 随机生成虚拟身份
-      - title: 临时邮箱
-        logo: tempmail.ico
-        url: https://www.linshiyouxiang.net/
-        description: 提供临时邮箱服务
-      - title: 常用临时邮箱
-        logo: emailnator.ico
-        url: https://www.emailnator.com/
-        description: 临时邮箱生成与管理
-      - title: Yopmail
-        logo: yopmail.ico
-        url: https://yopmail.com/zh/
-        description: 提供免费临时邮箱
-      - title: TempMail Plus
-        logo: tempmail.ico
-        url: https://tempmail.plus/zh/#!/
-        description: 在线生成临时邮箱
-      - title: GoInSMS
-        logo: goinsms.ico
-        url: https://www.goinsms.xyz/
-        description: 接码平台，提供接收短信服务
