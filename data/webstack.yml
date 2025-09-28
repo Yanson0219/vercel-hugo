@@ -1,22 +1,24 @@
-list:
-  - term: YuUu管理
-    links:
-      - title: 订阅管理系统
-        logo: cf.ico
-        url: https://dingyue.wulingcheng.dpdns.org/
-        description: 高效管理订阅源
-      - title: Edgetunnel
-        logo: edgetunnel.ico
-        url: https://qy.qyan.qzz.io/YuUu
-        description: 网络隧道配置与管理工具
-      - title: 订阅聚合
-        logo: huiju.ico
-        url: https://huiju.wulingcheng.dpdns.org/YuUu
-        description: 聚合多种订阅源，轻松管理
-      - title: Komari监控
-        logo: komari.ico
-        url: https://ghwseujk.ap-northeast-1.clawcloudrun.com/
-        description: 实时监控系统健康状态
+- taxonomy: cloudflare自建
+  icon: fas fa-laptop-code fa-lg
+  list:
+    - term: YuUu管理
+      links:
+        - title: 订阅管理系统
+          logo: cf.ico
+          url: https://dingyue.wulingcheng.dpdns.org/
+          description: 高效管理订阅源
+        - title: Edgetunnel
+          logo: edgetunnel.ico
+          url: https://qy.qyan.qzz.io/YuUu
+          description: 网络隧道配置与管理工具
+        - title: 订阅聚合
+          logo: huiju.ico
+          url: https://huiju.wulingcheng.dpdns.org/YuUu
+          description: 聚合多种订阅源，轻松管理
+        - title: Komari监控
+          logo: komari.ico
+          url: https://ghwseujk.ap-northeast-1.clawcloudrun.com/
+          description: 实时监控系统健康状态
 
 - taxonomy: 数据资源
   icon: fas fa-database fa-lg
